@@ -1,0 +1,36 @@
+body{
+  background-color: #FFF300;
+}
+
+h1{
+  font-size: 30px;
+  padding: 10px;
+  padding-bottom: 50px;
+  text-align: center;
+  color: black;
+}
+
+#submitName{
+  color: red;
+  display: block;
+  background-color: #EAEDED;
+  border-radius: 30%;
+  border: 2px solid black;
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+  width: 10%;
+  height: 30%;
+  padding-top: 5px;
+}
+
+#submitNumber{
+  color: red;
+  display: block;
+  background-color: #EAEDED;
+  font-style: bold;
+  border-radius: 30%;
+  border: 2px solid black;
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+  width: 10%;
+  height: 30%;
+  padding-top: 5px;
+}
